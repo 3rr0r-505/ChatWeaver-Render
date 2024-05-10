@@ -1,6 +1,6 @@
 # ChatWeaver-live <br><a href="https://www.python.org/"><img alt="" src="https://img.shields.io/badge/python-3.9%2B-blue?logo=python&logoColor=88d4d7"/></a> <a href="https://flask.palletsprojects.com/en/3.0.x/"><img alt="" src="https://img.shields.io/badge/Flask-v3.0.3-45aec2?logo=flask&logoColor=45aec2"/></a> <a href="https://www.mongodb.com/"><img alt="" src="https://img.shields.io/badge/MongoDB%20Atlas-v4.4.6-009441?logo=mongodb&logoColor=009441"/></a> <a href="https://ai.google.dev/"><img alt="" src="https://img.shields.io/badge/Gemini%20API-Enabled-brightgreen"/></a> <a href="https://vercel.com"><img alt="" src="https://img.shields.io/badge/Deployed%20with-Vercel-black?logo=vercel"/></a> <a href="https://render.com/"><img alt="" src="https://img.shields.io/badge/Hosted%20on-Render-black?logo=render&logoColor=white"/></a>
 
-This is a simple chatbot application built using Python, Flask, and the Gemini API hosted on [Vercel](https://chatweaver.vercel.app/login) & [Render](https://chatweaver.onrender.com).
+This is a simple chatbot application built using Python, Flask, and the Gemini API hosted on [Vercel](https://chatweaver.vercel.app/login){:target="_blank"} & [Render](https://chatweaver.onrender.com){:target="_blank"}.
 
 ## Overview
 This chatbot allows users to interact with it through a web interface. It leverages the Gemini API to provide responses to user queries. The backend is implemented in Python using the Flask framework.
